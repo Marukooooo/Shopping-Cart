@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Osborn",
+        "price":1123.11,
+        "imgUrl":"/imgs/Osborn.jpg"
+    },
+    {
+        "id":2,
+        "name":"Evan",
+        "price":122.66,
+        "imgUrl":"/imgs/Evan.jpg"
+    },
+    {
+        "id":3,
+        "name":"Sariel",
+        "price":91.77,
+        "imgUrl":"/imgs/Sariel.jpg"
+    },
+    {
+        "id":4,
+        "name":"Jesse",
+        "price":526.00,
+        "imgUrl":"/imgs/Jesse.jpg"
+    }
+]
